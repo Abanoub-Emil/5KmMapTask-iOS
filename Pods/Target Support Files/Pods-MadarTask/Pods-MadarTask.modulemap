@@ -1,0 +1,6 @@
+framework module Pods_MadarTask {
+  umbrella header "Pods-MadarTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
